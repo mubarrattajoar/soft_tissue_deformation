@@ -33,5 +33,5 @@ Here's how to visualize the resulting meshes from optimization:
 ```bash
 python soft_body_visualize.py --output_path path/to/mesh/results/folder --iteration 3
 ```
-**output_path**: path to mesh output folder.
+**output_path**: path to mesh output folder.<br>
 **iteration**: mesh output iteration to be viewed.
